@@ -1,0 +1,3 @@
+[submodule "degenalysis-test"]
+	path = degenalysis-test
+	url = git@github.com:zubin-madon/degenalysis-test.git
